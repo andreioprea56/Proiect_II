@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://target.scene7.com/is/image/Target/52943226?wid=520&hei=520&fmt=pjpeg",
+      "price": "Pret:80 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Rosu, Negru, Maro, Roz, Portocaliu, Albastru."
+    },
+    {
+      "img": "https://catmobile.ro/img/p/4/6/9/5/7/46957-thickbox_default.jpg",
+      "price": "Pret:60 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Rosu, Negru .  ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "img": "http://mac-more.com/image/data/iPhone%20Accessories/iPhone%206%20Plus/Silicone/MGXX2.jpeg",
+      "price": "Pret:70 lei",
+      "about": "Husa este disponibila in urmatoarele culori: Gri, Negru, Rosu, Verde, Roz, Albastru."
+    },
+    {
+      "id": 4,
+      "img": "https://s0emagst.akamaized.net/products/770/769353/images/res_ce5f967f97760b93bbedd9801ea08157_full.jpg",
+      "price": "Pret:30 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Rosu, Albastru, Auriu, Gri, Negru, Verde, Mov."
+    },
+    {
+      "id": 5,
+      "img": "http://shop.mobilenations.com/store_images/product_images/accessories/large/26826.jpg",
+      "price": "Pret:90 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Gri, Albastru, Negru, Maro, Crem."
+    },
+    {
+      "id": 6,
+      "img": "http://cdn1.shopmania.biz/files/s4/332393054/p/l/2/husa-book-mirror-pentru-telefon-samsung-galaxy-s7-edge-gold~4522.jpg",
+      "price": "Pret:60 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Roz, Gri, Albastru, Auriu."
+    },
+    {
+      "id": 7,
+      "img": "https://ae01.alicdn.com/kf/HTB1zKJ7QXXXXXbjapXXq6xXFXXXY/Mirror-TPU-Case-Back-Cover-For-Samsung-Galaxy-J1-Ace-J120-J2-J3-J5-J7-J510.jpg_640x640.jpg",
+      "price": "Pret:30 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Auriu, Negru."
+    },
+    {
+      "id": 8,
+      "img": "https://p1.akcdn.net/full/303033071.samsung-flip-book-cover-galaxy-a3-ef-fa300b.jpg",
+      "price": "Pret:40 lei.",
+      "about": "Husa este disponibila in urmatoarele culori: Crem, Negru, Rosu, Albastru. "
+    },
+    {
+      "id": 9,
+      "img": "https://www.itoys.co.za/image/cache/catalog/StockPhotographs/iT0525/9h-tempered-glass-3d-full-screen-curved-samsung-galaxy-s7-black-02-700x700.jpg",
+      "price": "Pret:50 lei.",
+      "about": "Folie de sticla S7/S6.Marginea are diverse culori:Gri, Negru, Auriu."
+    },
+    {
+      "id": 10,
+      "img": "https://oau.ro/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/f/o/folie-samsung-galaxy-s7-edge-fata-spate.jpg",
+      "price": "Pret:30 lei.",
+      "about": "Folie clasica pentru S7/S6. Pachetul contine folie pentru fata si spatele telefonului."
+    },
+    {
+      "id": 11,
+      "img": "https://img01-olxro.akamaized.net/img-olxro/176923737_1_644x461_folie-sticla-iphone-7-8-8-plus-oradea.jpg",
+      "price": "Pret:80 lei.",
+      "about": "Folie sticla pentru Iphone 6/6S/7/8. Marginea are diverse culori: Rosu, Gri, Negru, Auriu."
+    },
+    {
+      "id": 12,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3E7kqXp6epiEqihPL7jOMeTr6a0kGjEa5LGwOkrMsprpf7QUS",
+      "price": "Pret:50 lei.",
+      "about": "Folie clasica pentru Iphone 7 Plus/Iphone 8 Plus. Pachetul contine folie pentru fata si spatele telefonului."
+    },
+    {
+      "id": 13,
+      "img": "https://s5emagst.akamaized.net/products/3235/3234765/images/res_42ec96fe8ebb7f12a6fd3c490c26cbf2_full.jpg",
+      "price": "Pret:300 lei.",
+      "about": "Incarcator wireless Samsung."
+    },
+    {
+      "id": 14,
+      "img": "https://s1emagst.akamaized.net/products/7981/7980716/images/res_7b20c5213f73fabef012e1b9b97337c9_full.jpg",
+      "price": "Pret:250 lei.",
+      "about": "Casti Samsung."
+    },
+    {
+      "id": 15,
+      "img": "https://fl12.shopmania.org/files/p/ro/t/491/incarcator-iphone-5c-auto-si-retea~214437491.jpg",
+      "price": "Pret:100 lei.",
+      "about": "Incarcator clasic Iphone."
+    },
+    {
+      "id": 16,
+      "img": "http://cimg2.163.com/catchpic/4/4A/4A35A305AAB117811C753C39D1F91942.jpg",
+      "price": "Pretul difera in functie de accesoriul dorit.",
+      "about": "Alte accesorii Iphone."
+    }
+  ],
+  "info": [
+    {
+      "id": 1,
+      "name": "Folii de protectie.",
+      "img": "https://ae01.alicdn.com/kf/HTB1AQ8lIpXXXXaYXpXXq6xXFXXXa/Folie-de-protectie-Sticla-securizata-for-Apple-iphone-5-5S-5C-Screen-Protector-Tempered-Glass-Screen.jpg_640x640.jpg",
+      "about": " Magazinul nostru detine atat folii din sticla cat si normale in diverse culori pentru ca telefonul dumneavostra sa arate bine si sa fie protejat."
+    },
+    {
+      "id": 2,
+      "name": "Huse.",
+      "img": "https://images.mobilefun.co.uk/graphics/productmisc/59582/2.jpg",
+      "about": "Husele pe care le comercializam au diverse culori si modele, sunt de tip carticica, bumper sau tip capac spate."
+    },
+    {
+      "id": 3,
+      "name": "Alte Accesorii.",
+      "img": "https://3.imimg.com/data3/AF/BI/MY-11779302/mobile-accessories-500x500.jpg",
+      "about": "Pe langa produsele prezentate anterior, in magazinul nostru puteti gasi: incarcatoare, casti, tastatura telefon si multe altele."
+    }
+  ],
+  "contact": [
+    {
+      "user_name": "exemplu",
+      "user_mail": "exemplu@yahoo.com",
+      "user_message": "exemplu",
+      "id": 1
+    }
+  ]
+}

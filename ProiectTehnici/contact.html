@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style1.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+    <title>Contact</title>
+    
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="brand">
+                <a href="home.html"><h1>Accesorii telefoane mobile.</h1></a>
+            </div>
+            <nav class="meniu">
+                <ul id="lista"></ul>
+                  <li><a href="home.html">Acasa </a><i class="fa fa-home" aria-hidden="true"></i></li>
+                  <li><a href="home.html#accesorii">Despre Accesorii </a><i class="fa fa-info-circle" aria-hidden="true"></i></li>
+                  <li><a href="products.html">Produse </a><i class="fa fa-product-hunt" aria-hidden="true"></i></li>
+                  <li class="current"><a href="contact.html">Contact </a><i class="fa fa-location-arrow" aria-hidden="true"></i></li> 
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+            <section class="contact" >
+                <div class="titlu">
+                    <h2 id = "info">Informatii de contact.</h2>
+                    <!--<h3>Daca aveti intrebari despre produsele pe care le comercializam sau doriti informatii despre comenzile plasate nu ezitati sa ne contactati.</h3>-->
+                    <form  class =" formular" id="id_form">
+                        <div>
+                            <label >Id:</label> <input type="number" name="id" id="id" placeholder="Use the id for request, update or delete." >
+                        </div>
+                        <div>
+                          <label >Name:*</label> <input type="text" name="nume" id="nume" placeholder="Name" >
+                        </div>
+                        <div>
+                          <label >E-mail:*</label> <input type="email" name="mail" id="mail" placeholder="E-mail">
+                        </div>
+                        <div>
+                          <label >Message:*</label> <textarea name="msg" id="msg" placeholder="Type your message..."></textarea>
+                        </div>
+                        <div>
+                            <input type="button" class="button" value="Send!" id="btn" onclick="verificare()" >
+                            <input type="button" class="button" value="Request!" id="request">
+                            <input type="button" class="button" value="Update!" id="upd" disabled>
+                            <input type="button" class="button" value="Delete!" id="del" disabled>
+                        </div>
+                        <p>Campurile marcate cu * sunt obligatorii.</p>
+                    </form>
+                    
+                </div>
+                 
+                <div class="box">
+                    <img src="https://www.drupal.org/files/project-images/GoogleMaps2.png" alt="adresa">
+                    <a href="https://www.google.ro/maps/place/Strada+Aviator+Popi%C8%99teanu+44,+Bucure%C8%99ti+012244/data=!4m2!3m1!1s0x40b202304d017163:0x287f0a115e21e113?sa=X&ved=0ahUKEwiPgJHvqNTXAhVBKpoKHRUmAHAQ8gEIJTAA"><p>Strada Aviator Popisteanu 44, Bucuresti 012244</p></a>
+                </div>
+                <div class="box">
+                    <img src="https://www.lehigh.edu/google/gmail.png" alt="mail">
+                    <p><a href="mailto:accesoriigsm@gmail.com?subject=Informatii">Scrie-ne un e-mail.</a></p>
+                </div>
+                <div class="box">
+                    <img src="http://www.iconarchive.com/download/i49146/yootheme/social-bookmark/social-facebook-box-blue.ico" alt="facebook">
+                    <p><a href="https://www.facebook.com/Accesorii-gsm-1461619924090226">Profil facebook.</a></p>
+                </div>
+                <div class="box">
+                    <img src="https://cdn3.iconfinder.com/data/icons/essentials-vol-1-1/512/Type-512.png" alt="telefon">
+                    <p><u>(+021) 563 1180</u></p>
+                </div>
+
+            </section>
+                 
+            
+             
+    <footer class='footer' >
+            <p id="end">ATM, Copyright &copy; 2017</p>
+    </footer>
+    
+    <script src="contact.js"></script>
+</body>
+</html>
